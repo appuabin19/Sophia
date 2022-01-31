@@ -12,7 +12,7 @@ Simple whatsapp bot | Reedited from whatsasena
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hisham-muhammed</a> to make it public
+Project created by <a href="https://github.com/appuabin19/Sophia</a> to make it public
     <br>
        | Â© |
         Reserved |
@@ -71,7 +71,7 @@ Click Sophia logo to Join Support Group 2ðŸ‘‡
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ichu786780/Sophia-Mwol)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hisham-Muhammed/-SOPHIA.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/appuabin19/Sophia.git)
      </div>
 <br>
 <br >
